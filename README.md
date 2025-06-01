@@ -1,5 +1,5 @@
 README.md
-# 📊 Sales Dashboard Project
+# 📊 Sales Dashboard Project.
 
 This project includes:
 
